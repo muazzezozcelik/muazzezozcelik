@@ -5,7 +5,7 @@ Robotik, görüntü işleme ve yapay zeka alanlarına odaklanıyorum.
 
 ## 🚀 Şu An Ne Yapıyorum?
 - 🛸 Teknofest 2026 Sürü İHA Yarışması'nda **Kapsül Raclab Tulpars** takımında
-  Görüntü İşleme & YZ üzerinde çalışıyorum
+  Görüntü İşleme & YZ üzerine çalışıyorum
 - 📚 ROS2 (Robot Operating System) öğreniyorum
 - 💡 Nesne tespiti ve takip sistemleri üzerine çalışıyorum
 
