@@ -14,8 +14,6 @@ Robotik, görüntü işleme ve yapay zeka alanlarına odaklanıyorum.
 - **Alan:** Görüntü İşleme, Yapay Zeka, ROS2
 - **Kütüphane:** OpenCV
 
-## 🏆 Sertifikalar
-- Arduino Programlama Geliştirme ve Uyum Eğitimi — Selçuklu Halk Eğitimi Merkezi
 
 ## 📫 İletişim
 - 📧 muazzezozcelik33@gmail.com
