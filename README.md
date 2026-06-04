@@ -1,16 +1,22 @@
-## Hi there 👋
+# Merhaba, ben Muazzez 👋
 
-<!--
-**muazzezozcelik/muazzezozcelik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Konya Teknik Üniversitesi Bilgisayar Mühendisliği 2. sınıf öğrencisiyim.
+Robotik, görüntü işleme ve yapay zeka alanlarına odaklanıyorum.
 
-Here are some ideas to get you started:
+## 🚀 Şu An Ne Yapıyorum?
+- 🛸 Teknofest 2026 Sürü İHA Yarışması'nda **Kapsül Raclab Tulpars** takımında
+  Görüntü İşleme & YZ üzerinde çalışıyorum
+- 📚 ROS2 (Robot Operating System) öğreniyorum
+- 💡 Nesne tespiti ve takip sistemleri üzerine çalışıyorum
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Teknolojiler
+- **Diller:** Python, C, C++, Arduino
+- **Alan:** Görüntü İşleme, Yapay Zeka, ROS2
+- **Kütüphane:** OpenCV
+
+## 🏆 Sertifikalar
+- Arduino Programlama Geliştirme ve Uyum Eğitimi — Selçuklu Halk Eğitimi Merkezi
+
+## 📫 İletişim
+- 📧 muazzezozcelik33@gmail.com
+- 📍 Konya, Türkiye
